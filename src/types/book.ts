@@ -1,5 +1,5 @@
 
-// status possível do livro: lido ou não lido
+// status possível do livro: lid ou não lido
 export type BookStatus = "Lido" | "Não lido";
 
 // dados básicos de um livro 
